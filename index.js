@@ -1,2 +1,2 @@
-const hello = "hellow world!";
+const hello = "hello world!";
 //const x = 2;
